@@ -1,0 +1,10 @@
+{% extends "base.html" %}
+
+{% block content %}
+<a href="{% url "list" %}">新闻</a>
+
+<form action="{% url "search" %}" method="get">
+    <input type="text" name="search" placeholder="search">
+    <input type="submit" value="百度一下"/>
+</form>
+{% endblock %}
