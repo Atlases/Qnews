@@ -1,4 +1,4 @@
-This is trial blog website to learn Django.
+This is practice website to learn website developments with django , javascript and css.
 
 # Installations
 
