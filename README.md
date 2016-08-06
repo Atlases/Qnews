@@ -5,8 +5,8 @@ This is trial blog website to learn Django.
 for linux
 
 ```
-git clone https://github.com/lynndotconfig/my_blog.git
-cd my_blog
+git clone https://github.com/Atlases/qnews.git
+cd qnews
 
 # if you have installed python pip.
 pip install install -r requirements.text
@@ -22,13 +22,12 @@ for windows
 
 ```
 # if you have get git installed.
-$ git clone https://github.com/lynndotconfig/my_blog.git
-
+$ git clone https://github.com/Atlases/qnews.git
 # or just download these files from github repo.
 
 
 # install package.
-cd my_blog
+cd qnews
 python pip install -r requirements.txt
 
 # run the server.
